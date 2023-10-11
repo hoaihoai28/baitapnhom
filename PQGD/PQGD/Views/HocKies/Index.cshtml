@@ -1,0 +1,41 @@
+﻿@model IEnumerable<PQGD.Models.HocKy>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tenhocky)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.namhoc)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.tenhocky)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.namhoc)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id_hocky">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id_hocky">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id_hocky">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

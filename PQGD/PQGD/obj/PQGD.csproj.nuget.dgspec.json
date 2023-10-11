@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\LeGiaBao-21.1Udpm\\ASP.NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj": {}
+    "D:\\ASP .NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj": {}
   },
   "projects": {
-    "D:\\LeGiaBao-21.1Udpm\\ASP.NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj": {
+    "D:\\ASP .NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\LeGiaBao-21.1Udpm\\ASP.NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj",
+        "projectUniqueName": "D:\\ASP .NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj",
         "projectName": "PQGD",
-        "projectPath": "D:\\LeGiaBao-21.1Udpm\\ASP.NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj",
-        "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "D:\\LeGiaBao-21.1Udpm\\ASP.NET\\baitapnhom\\PQGD\\PQGD\\obj\\",
+        "projectPath": "D:\\ASP .NET\\baitapnhom\\PQGD\\PQGD\\PQGD.csproj",
+        "packagesPath": "C:\\Users\\Gia Bao\\.nuget\\packages\\",
+        "outputPath": "D:\\ASP .NET\\baitapnhom\\PQGD\\PQGD\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Gia Bao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\Student\\Downloads": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

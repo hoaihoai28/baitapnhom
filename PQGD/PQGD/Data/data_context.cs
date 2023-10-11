@@ -13,18 +13,41 @@ namespace PQGD.Data
         protected override void OnConfiguring(DbContextOptionsBuilder option)
         {
 
-            option.UseSqlServer("Server=DESKTOP-3DVT19E\\SQLEXPRESS; Database = PQGD;" +
+            option.UseSqlServer("Server=LAPTOP-O9SMJSLO\\SQLEXPRESS; Database = PQGD;" +
                 "User ID=sa;Password=123;Trusted_Connection=True;TrustServerCertificate=True;");
-            //option.UseSqlServer("server=DESKTOP-3DVT19E\\SQLEXPRESS;database=zoo;trusted_connection=true;TrustServerCertificate=True;");
-            //Integrated Security = False
+            
         }
 
-        public DbSet<PQGD.Models.GiaoVien>? GiaoVien { get; set; }
+        public DbSet<PhanQuyen> PhanQuyens { get; set; }
+        public DbSet<GiaoVien> GiaoViens { get; set; }
+        public DbSet<Lop> Lops { get; set; }
+        public DbSet<MonHoc> MonHocs { get; set; }
+        public DbSet<HocKy> HocKys { get; set; } 
 
-        public DbSet<PQGD.Models.PhanQuyen>? PhanQuyen { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
 
-        public DbSet<PQGD.Models.HocKy>? HocKy { get; set; }
+            // Cấu hình các mối quan hệ giữa các bảng
+            modelBuilder.Entity<PhanQuyen>()
+                .HasOne(pq => pq.GiaoVien)
+                .WithMany()
+                .HasForeignKey(pq => pq.id_giaovien);
 
+            modelBuilder.Entity<PhanQuyen>()
+                .HasOne(pq => pq.Lop)
+                .WithMany()
+                .HasForeignKey(pq => pq.id_lop);
 
+            modelBuilder.Entity<PhanQuyen>()
+                .HasOne(pq => pq.MonHoc)
+                .WithMany()
+                .HasForeignKey(pq => pq.id_monhoc);
+
+            modelBuilder.Entity<PhanQuyen>()
+                .HasOne(pq => pq.HocKy)
+                .WithMany()
+                .HasForeignKey(pq => pq.id_hocky);
+        }
     }
 }

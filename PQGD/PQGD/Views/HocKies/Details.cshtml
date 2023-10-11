@@ -1,0 +1,30 @@
+﻿@model PQGD.Models.HocKy
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>HocKy</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.tenhocky)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.tenhocky)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.namhoc)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.namhoc)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id_hocky">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

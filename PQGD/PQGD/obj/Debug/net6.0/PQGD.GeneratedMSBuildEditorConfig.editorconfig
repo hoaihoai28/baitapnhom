@@ -8,37 +8,141 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PQGD
 build_property.RootNamespace = PQGD
-build_property.ProjectDir = D:\LeGiaBao-21.1Udpm\ASP.NET\baitapnhom\PQGD\PQGD\
+build_property.ProjectDir = D:\ASP .NET\baitapnhom\PQGD\PQGD\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\LeGiaBao-21.1Udpm\ASP.NET\baitapnhom\PQGD\PQGD
+build_property.MSBuildProjectDirectory = D:\ASP .NET\baitapnhom\PQGD\PQGD
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/Home/Index.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/DangNhap/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuZ05oYXBcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/GiaoViens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhb1ZpZW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/GiaoViens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhb1ZpZW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/GiaoViens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhb1ZpZW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/GiaoViens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhb1ZpZW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/GiaoViens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lhb1ZpZW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/HocKies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS2llc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/HocKies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS2llc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/HocKies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS2llc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/HocKies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS2llc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/HocKies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9jS2llc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/Home/Privacy.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/Shared/Error.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Lops/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Lops/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Lops/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Lops/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Lops/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/MonHocs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/MonHocs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/MonHocs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/MonHocs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/MonHocs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW9uSG9jc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/PhanQuyens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhblF1eWVuc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/PhanQuyens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhblF1eWVuc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/PhanQuyens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhblF1eWVuc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/PhanQuyens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhblF1eWVuc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/PhanQuyens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhhblF1eWVuc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/_ViewImports.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/_ViewStart.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LeGiaBao-21.1Udpm/ASP.NET/baitapnhom/PQGD/PQGD/Views/Shared/_Layout.cshtml]
+[D:/ASP .NET/baitapnhom/PQGD/PQGD/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-y1o0ivpk32
